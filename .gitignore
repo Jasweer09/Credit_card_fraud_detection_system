@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+CCFraudvenv/
+.CCFraudvenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python-specific cache files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables or secret configs
+.env
+.env.*
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+
+# pytest
+.cache/
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# mypy
+.mypy_cache/
+
+# profiling
+.prof
+
+# data science outputs
+*.h5
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Jupyter runtime
+~$*
+
+# Logs
+*.log
+*.out
