@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/fe10e7f7ba5a42308be47805450aa316/artifacts
+end_time: 1754519899075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe10e7f7ba5a42308be47805450aa316
+run_name: nosy-fly-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754519895411
+status: 3
+tags: []
+user_id: jaswe

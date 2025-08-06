@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-7cb6df2864214d929eaa9c188ef5d456/artifacts
+creation_timestamp: 1754516222586
+experiment_id: '0'
+last_updated_timestamp: 1754516237111
+model_id: m-7cb6df2864214d929eaa9c188ef5d456
+model_type: null
+name: RandomForestTree
+source_run_id: 6c482b7c63c24a6eb86a79bbb6017214
+status: 2
+status_message: null

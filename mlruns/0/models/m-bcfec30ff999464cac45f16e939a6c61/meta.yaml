@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-bcfec30ff999464cac45f16e939a6c61/artifacts
+creation_timestamp: 1754484581095
+experiment_id: '0'
+last_updated_timestamp: 1754484584610
+model_id: m-bcfec30ff999464cac45f16e939a6c61
+model_type: null
+name: logistic_model_with_Borderline_smote
+source_run_id: 69dfff539d3e4abab3c30caffeb5ebef
+status: 2
+status_message: null
