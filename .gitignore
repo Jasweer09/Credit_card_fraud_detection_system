@@ -69,7 +69,6 @@ htmlcov/
 *.h5
 *.csv
 *.parquet
-*.pkl
 *.joblib
 
 # Jupyter runtime
