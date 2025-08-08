@@ -68,6 +68,7 @@ htmlcov/
 # data science outputs
 *.h5
 *.csv
+*.pkl
 *.parquet
 *.joblib
 
