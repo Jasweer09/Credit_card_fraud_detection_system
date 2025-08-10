@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-68f18c93791d41859e459f32fbc52fdc/artifacts
+creation_timestamp: 1754519895582
+experiment_id: '0'
+last_updated_timestamp: 1754519899060
+model_id: m-68f18c93791d41859e459f32fbc52fdc
+model_type: null
+name: XGBoost Native
+source_run_id: fe10e7f7ba5a42308be47805450aa316
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-bcfec30ff999464cac45f16e939a6c61/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.1.4
+model_id: m-bcfec30ff999464cac45f16e939a6c61
+model_size_bytes: 1274
+model_uuid: m-bcfec30ff999464cac45f16e939a6c61
+prompts: null
+run_id: 69dfff539d3e4abab3c30caffeb5ebef
+utc_time_created: '2025-08-06 12:49:41.182996'

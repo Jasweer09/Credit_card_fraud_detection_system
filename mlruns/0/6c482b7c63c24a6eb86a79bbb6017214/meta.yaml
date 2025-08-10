@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/6c482b7c63c24a6eb86a79bbb6017214/artifacts
+end_time: 1754516237136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c482b7c63c24a6eb86a79bbb6017214
+run_name: amazing-mule-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754516222295
+status: 3
+tags: []
+user_id: jaswe

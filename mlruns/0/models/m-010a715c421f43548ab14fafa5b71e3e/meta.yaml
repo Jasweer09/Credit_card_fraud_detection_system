@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-010a715c421f43548ab14fafa5b71e3e/artifacts
+creation_timestamp: 1754238580880
+experiment_id: '0'
+last_updated_timestamp: 1754238592599
+model_id: m-010a715c421f43548ab14fafa5b71e3e
+model_type: null
+name: logistic_model
+source_run_id: 34c7e00ba1e84ee290e8cfbfc57acd87
+status: 2
+status_message: null

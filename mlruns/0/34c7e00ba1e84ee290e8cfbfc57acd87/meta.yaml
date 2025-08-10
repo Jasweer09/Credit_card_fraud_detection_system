@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/34c7e00ba1e84ee290e8cfbfc57acd87/artifacts
+end_time: 1754238592625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c7e00ba1e84ee290e8cfbfc57acd87
+run_name: gentle-fly-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754238580368
+status: 3
+tags: []
+user_id: jaswe

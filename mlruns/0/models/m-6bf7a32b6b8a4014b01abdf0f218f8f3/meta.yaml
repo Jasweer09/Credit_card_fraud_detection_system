@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/models/m-6bf7a32b6b8a4014b01abdf0f218f8f3/artifacts
+creation_timestamp: 1754403778545
+experiment_id: '0'
+last_updated_timestamp: 1754403787191
+model_id: m-6bf7a32b6b8a4014b01abdf0f218f8f3
+model_type: null
+name: logistic_model_with_SMOTE-ENN
+source_run_id: 8696614f0dea42cda500b56cb8acbb6c
+status: 2
+status_message: null

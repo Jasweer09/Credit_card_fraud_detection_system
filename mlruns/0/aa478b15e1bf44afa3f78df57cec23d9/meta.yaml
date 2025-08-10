@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/aa478b15e1bf44afa3f78df57cec23d9/artifacts
+end_time: 1754364386315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa478b15e1bf44afa3f78df57cec23d9
+run_name: flawless-kite-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364379810
+status: 3
+tags: []
+user_id: jaswe

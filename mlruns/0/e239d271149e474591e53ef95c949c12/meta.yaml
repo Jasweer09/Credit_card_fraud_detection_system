@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Jasweer/my_project/Credit_card_fraud_detection_system/mlruns/0/e239d271149e474591e53ef95c949c12/artifacts
+end_time: 1754364326606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e239d271149e474591e53ef95c949c12
+run_name: traveling-cub-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754364318835
+status: 3
+tags: []
+user_id: jaswe
