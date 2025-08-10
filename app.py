@@ -3,7 +3,6 @@ import numpy as np
 import joblib
 from flask import Flask, request, jsonify, render_template
 import traceback
-from xgb_ensemble import XGBEnsemble
 from flask_cors import CORS
 
 class XGBEnsemble:
