@@ -1,0 +1,22 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore notebooks
+# *.ipynb
+
+# Ignore local virtual environments
+venv/
+CCFraudvenv/
+
+# Ignore dataset files
+*.csv
+
+# Ignore model training artifacts if not needed inside container
+
+
+# Ignore Git and other metadata
+.git
+.gitignore
