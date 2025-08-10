@@ -108,13 +108,13 @@ We combined:
 | XGBoost Native Weight                      | 0.22              | **0.84**       | 0.35     | **0.976** |
 | **Ensemble (Final)**                        | 0.89              | 0.80           | 0.84     | 0.976   |
 
-**Local Deployment SS:**
+## Local Deployment SS:
    - _Landing Page_
-       ![Screenshot](landing.png)
+  ![Screenshot](landing.png)
    - _Details for Prediction_
-     ![Screenshot](Fraud_image.png)
+  ![Screenshot](Fraud_image.png)
    - _Prediction_
-     ![Screenshot](Non_Fraud.png)
+  ![Screenshot](Non_Fraud.png)
 
 ---
 
