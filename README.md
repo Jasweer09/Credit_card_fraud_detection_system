@@ -111,9 +111,9 @@ We combined:
 ## Local Deployment SS:
    - _Landing Page_
   ![Screenshot](landing.png)
-   - _Details for Prediction_
+   - _Fraud_
   ![Screenshot](Fraud_image.png)
-   - _Prediction_
+   - _Non-Fraud_
   ![Screenshot](Non_Fraud.png)
 
 ---
