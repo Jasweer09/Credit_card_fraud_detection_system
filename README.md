@@ -1,5 +1,7 @@
 # 🚀 Credit Card Fraud Detection – From Raw Data to Final Model
 
+**Live Demo:** [https://fraud-detection-latest.onrender.com/](https://fraud-detection-latest.onrender.com/)
+
 ## 📖 Project Story
 
 Fraud detection is not just a machine learning problem — it’s a **high‑stakes, real‑world challenge** where missing a fraud (false negative) can cost thousands, and wrongly flagging a transaction (false positive) can damage customer trust.  
@@ -106,6 +108,13 @@ We combined:
 | XGBoost Native Weight                      | 0.22              | **0.84**       | 0.35     | **0.976** |
 | **Ensemble (Final)**                        | 0.89              | 0.80           | 0.84     | 0.976   |
 
+**Local Deployment SS:**
+   - _Landing Page_
+       ![Screenshot](landing.png)
+   - _Details for Prediction_
+     ![Screenshot](Fraud_image.png)
+   - _Prediction_
+     ![Screenshot](Non_Fraud.png)
 
 ---
 
