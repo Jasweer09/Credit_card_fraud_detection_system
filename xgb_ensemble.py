@@ -12,6 +12,5 @@ class XGBEnsemble:
         return np.vstack([1 - proba_avg, proba_avg]).T
 
     def predict(self, X):
-        #print(X)
-        print(self.predict_proba(X))
-        return (self.predict_proba(X)[:, 1] >= 0.5).astype(int)
+        
+        return (self.predict_proba(X)[:, 1] >= 0.55).astype(int)
